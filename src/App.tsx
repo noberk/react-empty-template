@@ -1,9 +1,7 @@
 import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
 
 function App() {
-  return <div></div>;
+  return <div style={{ fontSize: "10em" }}>Hi BeiSen</div>;
 }
 
 export default App;
